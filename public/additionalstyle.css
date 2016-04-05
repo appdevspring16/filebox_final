@@ -29,6 +29,10 @@ p {
   line-height: 175%;
 }
 
+.white {
+  background-color: white;
+}
+
 /* Footer styles*/
 
 footer h4 {
