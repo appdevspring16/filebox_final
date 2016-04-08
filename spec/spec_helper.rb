@@ -92,7 +92,7 @@ RSpec.configure do |config|
   RSpec.configure do |config|
     config.before(:suite) do
       Percy.config.access_token = ENV["PERCY_TOKEN"]
-      # Percy.config.default_widths = [320, 768, 1280] # to test responsiveness
+      Percy.config.default_widths = [320, 1280] # to test responsiveness
     end
 
     config.before(:suite) { Percy::Capybara.initialize_build }
