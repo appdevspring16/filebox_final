@@ -3,6 +3,42 @@
 body {
   font-family: "Open Sans";
   background-color: rgb(251,251,251);
+  color: rgb(68,68,68);
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+    color: rgb(0, 102, 255) !important;
+}
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 175%;
+}
+
+.get-started-now {
+  background-color: white;
+}
+
+footer h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+footer li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
 }
 
 /* My standard vertical spacing classes */
