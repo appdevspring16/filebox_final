@@ -5,6 +5,45 @@ body {
 }
 
 /* My standard vertical spacing classes */
+.navbar-default{
+    background-color:white;
+}
+
+body{
+       background-color: rgb(251, 251, 251);
+}
+a {
+  color: rgb(0,126,229) !important;
+}
+
+h1, h2{
+font-weight: 300;
+line-height: 125%;
+}
+
+
+p{
+font-weight: 200;
+font-size: 20px;
+line-height: 175%;
+}
+
+.background-gsn{
+  background-color: white;
+  }
+
+h4{
+color: rgb(119,119,119);
+font-size: 16px;
+font-weight: 700;
+margin-bottom: 10px;
+}
+
+footer li{
+  color: rgb(119,119,119);
+  margin: 0.5em 0;
+  margin-right: 10px;
+}
 
 .padding-inside-top-xs {
   padding-top: 10px;
