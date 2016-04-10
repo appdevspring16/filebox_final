@@ -12,13 +12,14 @@ body {
 body{
        background-color: rgb(251, 251, 251);
 }
-a {
+ nav a {
   color: rgb(0,126,229) !important;
 }
 
 h1, h2{
 font-weight: 300;
 line-height: 125%;
+color:rgb(68, 68, 68);
 }
 
 
@@ -26,6 +27,7 @@ p{
 font-weight: 200;
 font-size: 20px;
 line-height: 175%;
+color:rgb(68, 68, 68);
 }
 
 .background-gsn{
@@ -33,7 +35,7 @@ line-height: 175%;
   }
 
 h4{
-color: rgb(119,119,119);
+color: rgb(153,153,153);
 font-size: 16px;
 font-weight: 700;
 margin-bottom: 10px;
