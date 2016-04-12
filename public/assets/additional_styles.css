@@ -1,8 +1,9 @@
 /* Additional styles */
 
-body {
-  font-family: "Open Sans";
+body { font-family: "Open Sans"; background-color: rgb(251, 251, 251); color: rgb(68,68,68);
 }
+
+.navbar {background-color: white;}
 
 /* My standard vertical spacing classes */
 
