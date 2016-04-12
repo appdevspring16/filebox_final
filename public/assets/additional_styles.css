@@ -2,6 +2,7 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251, 251, 251);
 }
 
 /* My standard vertical spacing classes */
@@ -80,4 +81,8 @@ body {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
+}
+
+.navbar a {
+  color: rgb(0,126,229);
 }
