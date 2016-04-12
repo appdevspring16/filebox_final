@@ -34,15 +34,8 @@ video {
   display: inline-block;
   vertical-align: baseline;
 }
-/*Background colors*/
-.pinkbackground {
-background-color: pink
-}
-.greenbackground {background-color: lightgreen}
-.bluebackground {background-color: lightblue}
-.orangebackground { background-color: orange
-}
-.yellowbackgroung { background-color: yellow}
+/*Text colors*/
+.bluetext { color: blue}
 
 
 audio:not([controls]) {
