@@ -10,14 +10,14 @@
   background-color: white;
 }
 
+.navbar a {
+  color: rgb(0,126,229) !important;
+}
+
 body {
   background-color: rgb(251, 251, 251);
   color: rgb(68,68,68);
   font-family: "Open Sans";
-}
-
-a {
-  color: rgb(0,126,229) !important;
 }
 
 h1, h2 {
