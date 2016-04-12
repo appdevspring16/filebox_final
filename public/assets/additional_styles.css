@@ -1,7 +1,7 @@
 /* Additional styles */
 
 body {
-  font-family: "Open Sans"; background-color: blue; color: rgb (68,68,68);
+  font-family: "Open Sans"; background-color: grey; color: rgb (68,68,68);
 }
 
 .navbar {
@@ -11,6 +11,8 @@ body {
 .navbar a {
   color: rgb(0,126,229) !important;
 }
+
+.get-started-now {background-color: white;}
 
 
 /* My standard vertical spacing classes */
