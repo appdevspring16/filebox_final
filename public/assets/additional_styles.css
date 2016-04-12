@@ -2,6 +2,7 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251,251,251);
 }
 
 /* My standard vertical spacing classes */
@@ -80,4 +81,32 @@ body {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
+}
+
+
+/*CJ Additional styles*/
+
+.bottom-form-no-background {
+  background-color: white;
+}
+
+.navbar-background-color {
+  background-color: white;
+}
+
+.navbar-blue{
+  color: blue !important;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+p {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+h2 {
+  font-weight: 300;
 }
