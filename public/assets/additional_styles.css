@@ -1,8 +1,17 @@
 /* Additional styles */
 
 body {
-  font-family: "Open Sans";
+  font-family: "Open Sans"; background-color: blue; color: rgb (68,68,68);
 }
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
+}
+
 
 /* My standard vertical spacing classes */
 
