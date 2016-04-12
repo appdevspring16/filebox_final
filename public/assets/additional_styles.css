@@ -11,9 +11,9 @@
 }
 
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
   font-family: "Open Sans";
-  background-color: rgb(251, 251, 251)
-  color: rgb(68, 68, 68);
 }
 
 a {
@@ -29,6 +29,10 @@ p {
   font-size: 20px;
   font-weight: 300;
   line-height: 175%;
+}
+
+.get-started {
+  background-color: white;
 }
 
 .footer-heading {
