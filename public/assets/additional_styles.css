@@ -104,7 +104,8 @@ p{
 }
 
 .footer li {
-  line-height: 200%;
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
 }
 
 .footer h4{
