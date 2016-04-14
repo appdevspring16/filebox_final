@@ -1,9 +1,13 @@
 /* Additional styles */
 
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
   font-family: "Open Sans";
 }
-
+.backwhite {
+  background-color: white;
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
@@ -81,3 +85,29 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+footer h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+footer li {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+.navbar{
+  background-color: white;
+}
+.navbar a {
+  color: rgb(0,126,229) !important;
+  
