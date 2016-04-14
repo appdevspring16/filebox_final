@@ -1,8 +1,41 @@
 /* Additional styles */
 
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
   font-family: "Open Sans";
 }
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
+}
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.get-started-now {
+  background-color: white;
+}
+
+h4 {
+  color: rgb(153,153,153);
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
 
 /* My standard vertical spacing classes */
 
