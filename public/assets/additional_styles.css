@@ -4,6 +4,20 @@ body {
   font-family: "Open Sans";
 }
 
+.navbar-color {
+  color:rgb(0,126,229) !important;
+}
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
