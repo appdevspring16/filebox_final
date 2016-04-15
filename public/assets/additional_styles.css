@@ -17,8 +17,14 @@ p {
   line-height: 175%;
 }
 
+.white-background {
+  background-color: white !important;
+}
+
 .navbar {
+  background-image: none;
   background-color: rgb (231, 231, 231);
+  background-color: white;
 }
 
 .navbar-brand a {
