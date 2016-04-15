@@ -1,7 +1,22 @@
 /* Additional styles */
 
 body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
   font-family: "Open Sans";
+}
+
+.get-started-now {
+  background-color: white;
+}
+
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
 }
 
 /* My standard vertical spacing classes */
