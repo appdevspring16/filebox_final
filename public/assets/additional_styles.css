@@ -2,6 +2,47 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251, 251, 251);
+}
+
+h1 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 700;
+  color: rgb(153,153,153);
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
+}
+
+.get-started {
+  background-color: #fff;
+}
+
+.footer li {
+  margin-bottom: 10px;
+  color: rgb(119,119,119);
 }
 
 /* My standard vertical spacing classes */
