@@ -11,6 +11,9 @@ body {
 .navbar {
   background-color: white;
 }
+.get-started{
+background-color: white;
+}
 h1 {
   font-weight: 300;
   line-height: 125%;
