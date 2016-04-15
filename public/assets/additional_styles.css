@@ -2,15 +2,24 @@
 
 body {
   font-family: "Open Sans";
+  color: rgb(68,68,68);
+  background-color: rgb(251, 251, 251);
 }
 
 .navbar-color {
   color:rgb(0,126,229) !important;
 }
 
+.navbar{
+  background-color: white;
+}
 h1, h2 {
   font-weight: 300;
   line-height: 125%;
+}
+
+.get-started {
+  background-color: white;
 }
 
 p {
