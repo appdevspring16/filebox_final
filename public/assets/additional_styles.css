@@ -3,14 +3,26 @@
 body {
   font-family: "Open Sans";
   background-color: rgb(251, 251, 251);
+  color: rgb(68, 68, 68);
+}
+
+h1, h2 {
+  font-weight: 100;
+  line-height: 125%;
 }
 
 p {
   font-size: 20px;
+  font-weight: 100;
+  line-height: 175%;
+}
+
+.navbar {
+  background-color: rgb (231, 231, 231);
 }
 
 .navbar-brand a {
-  color: rgb(0, 126,229);
+  color: rgb(0, 126,229) !important;
 }
 
 .navbar-btn a{
