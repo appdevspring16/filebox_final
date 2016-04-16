@@ -34,6 +34,24 @@ p{
   line-height: 175%;
 }
 
+a {
+  color: rgb(0,126,229);
+  text-decoration: none;
+}
+
+/* Grid */
+
+.main-content {
+  width: 960px;
+  margin: auto;
+}
+
+td {
+  vertical-align: top;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 footer h4{
   font-weight: 700;
   color: rgb(153,153,153);
@@ -48,6 +66,26 @@ footer li{
 
 .get-started-now{
   background-color: white;
+}
+
+.ul-footer {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* Buttons */
+
+.primary-button {
+  background-color: rgb(0,126,229);
+  width: 100%;
+  color: white;
+  border-radius: 5px;
+  height: 40px;
+  transition: all 0.2s ease-in-out;
+}
+
+.primary-button:hover {
+  background-color: rgb(0, 65, 117);
 }
 
 /* My standard vertical spacing classes */
