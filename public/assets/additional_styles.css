@@ -25,6 +25,9 @@ li  {
   background-color: white;
 }
 
+.other-background {
+  background-color: rgb(251, 251, 251);
+}
 
 .navbar {
   background-image: none;
@@ -32,17 +35,19 @@ li  {
   background-color: white;
 }
 
-.navbar-brand a {
-  color: rgb(0, 126, 229);
+.navbar-header a {
+  color: rgb(0, 126, 229) !important;
 }
 
 .navbar-btn a{
-  color: rgb(0, 126, 229);
+  color: rgb(0, 126, 229) !important;
 }
 
 .footer-h4{
   color: rgb(153, 153, 153);
-  font-weight: 500;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 10px;
 }
 
 .footer-list {
