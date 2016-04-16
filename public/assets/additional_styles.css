@@ -18,8 +18,9 @@ p {
 }
 
 .white-background {
-  background-color: white !important;
+  background-color: white;
 }
+
 
 .navbar {
   background-image: none;
@@ -28,11 +29,20 @@ p {
 }
 
 .navbar-brand a {
-  color: rgb(0, 126,229) !important;
+  color: rgb(0, 126, 229);
 }
 
 .navbar-btn a{
   color: rgb(0, 126, 229);
+}
+
+.footer-h4{
+  color: rgb(153, 153, 153);
+  font-weight: 500;
+}
+
+.footer-list {
+  color: rgb(119, 119, 119);
 }
 /* My standard vertical spacing classes */
 
@@ -92,7 +102,7 @@ p {
   margin-top: 150px;
 }
 
-.margin-below-bottom-xs {
+. class="footer-list" {
   margin-bottom: 10px;
 }
 
