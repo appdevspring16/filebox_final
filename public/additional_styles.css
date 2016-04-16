@@ -1,0 +1,63 @@
+td {
+  /*border:thin red solid;*/
+}
+
+body {
+  background-color: rgb(251, 251, 251);
+  color: rgb(68,68,68);
+  font-family: "Open Sans";
+}
+
+a {
+  color: rgb(0,126,229);
+  text-decoration: none;
+}
+
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.main-content{
+  width:960px;
+    margin: auto;
+    background-color: rgb(251, 251, 251);
+}
+
+.hero {
+  text-align: center;
+  background: url("hero.png")
+  no-repeat center center;
+  background-size: cover;
+  height: 300px;
+}
+
+
+.button {
+  background-color: rgb(0,126,229);
+  width: 100%;
+  color: white;
+  border-radius: 5px;
+  height: 40px;
+  transition: all 0.2s ease-in-out;
+}
+
+.footer  {
+  color: grey;
+  list-style: none;
+}
+
+.invisible {
+  color: rgb(251, 251, 251);
+}
+
+.getstartedwhite {
+  background-color: rgb(255, 255, 255);
+}
