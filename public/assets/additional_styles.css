@@ -2,6 +2,56 @@
 
 body {
   font-family: "Open Sans";
+  background-color: rgb(251, 251, 251);
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar a {
+  color: rgb(0,126,229) !important;
+  text-decoration: none;
+}
+
+.white-section {
+  background-color: white;
+  width: 100%;
+}
+}
+/*.get-started-style{
+  background-color: white;
+}*/
+
+h1,h2{
+  font-weight: 300;
+  line-height: 125%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 175%;
+}
+
+.footer{
+  vertical-align: text-top;
+  color: rgb(119,119,119)
+}
+
+.footer-list {
+  color: rgb(119,119,119);
+  margin-bottom: 10px;
+}
+
+.h4-footer{
+  font-weight: bold;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
+  line-height: 2.0;
 }
 
 /* My standard vertical spacing classes */
