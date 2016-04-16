@@ -17,6 +17,10 @@ p {
   line-height: 175%;
 }
 
+li  {
+  margin-bottom: 10px;
+}
+
 .white-background {
   background-color: white;
 }
